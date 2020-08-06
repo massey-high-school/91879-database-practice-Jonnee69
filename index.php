@@ -27,15 +27,9 @@
         
         <div class="box banner">
             
-        <!-- logo image linking to home page goes here -->
-        <a href="index.php">
-            <div class="box logo"  title="Logo - Click here to go to the Home Page">
-            <img class="img-circle" src="images/gen_logo.png" width="150" height="150" alt="generic logo" />
+
             
-            </div>    <!-- / logo -->
-        </a>
-            
-            <h1>Website Name</h1>
+            <h1>Book Review</h1>
         </div>    <!-- / banner -->
 
         <!-- Navigation goes here.  Edit BOTH the file name and the link name -->
@@ -44,13 +38,23 @@
             <a href="page1.html">Page 1</a> | 
             <a href="page2.html">Page 2</a> | 
             <a href="page3.html">Page 3</a> | 
+            <a href="page4.html">Page 4</a> |
+            <a href="page5.html">Page 5</a> |
             <a href="contact.html">Contact</a>
         </div>    <!-- / nav -->        
         
         <div class="box side">
         
-            Side bar / search goes here
-            
+         Search
+        <p>
+        -Search By Title
+        <p>  
+        -Search By Author
+        <p>
+        -Search By Genre
+        <p>
+        -Search Rating
+        </p>
         </div>
         
         <div class="box main">
@@ -72,7 +76,7 @@
         
 
         <div class="box footer">
-            CC yourname 20XX
+            Jonnee
         </div>    <!-- / footer -->
     
     </div>  <!-- / wrapper  -->
